@@ -18,7 +18,7 @@ O teste tem o objetivo de testar sua capacidade de se adaptar à uma nova tecnol
 
 Você precisa entregar o desafio de acordo com o requisito descrito abaixo no momento que achar que está pronto, mas vale levar em consideração que iremos dar prioridade à quem entregou primeiro.
 
-O que mais importa nesse momento é ter certeza de que você entendeu o requisito e o implementou de resolvendo o problema.
+O que mais importa nesse momento é ter certeza de que você entendeu o requisito e resolveu o problema.
 
 ### Requisito
 
