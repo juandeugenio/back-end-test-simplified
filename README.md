@@ -22,7 +22,7 @@ O que mais importa nesse momento é ter certeza de que você entendeu o requisit
 
 ### Requisito
 
-*Criar botão para arquivar todas as mensagens utilizando AJAX*
+*Criar botão para arquivar todas as mensagens*
 
    Hoje na lista de mensagens é permitido arquivar uma mensagem ao clicar em "Archive", porém algumas vezes o usuário quer arquivar todas as mensagens de uma só vez.
 
