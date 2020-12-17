@@ -28,4 +28,4 @@
 
 <%= link_to 'New Message', new_message_path %>
 <% # TODO: Mudar o link para a nova rota de arquivar todas as mensagens' %>
-<%= link_to 'Archive All', '#', method: :put, data: { confirm: 'Are you sure?' } %>
+<%= link_to 'Archive All', destroy_all_path, method: :put, data: { confirm: 'Are you sure?' } %>

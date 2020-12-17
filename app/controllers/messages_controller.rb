@@ -63,6 +63,14 @@ class MessagesController < ApplicationController
     end
   end
 
+  def destroy_all
+    @messages = Message.all
+    @messages.each do |message|
+      message.archive
+    end
+    redirect_to root_path
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_message
